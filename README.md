@@ -1,3 +1,3 @@
 # Calculators
 
-This are different type of calculators made in java to help learn how to use java.
+This are different type of math functions made to help learn how to use java.
